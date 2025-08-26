@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
+| [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Matrix
 |  |
