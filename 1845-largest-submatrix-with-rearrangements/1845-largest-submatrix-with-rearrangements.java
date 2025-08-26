@@ -7,7 +7,9 @@ class Solution {
             for(int j=0;j<m;j++)
             {
                 if(matrix[i][j]==1)
-                matrix[i][j]+=matrix[i-1][j];
+                {
+                    matrix[i][j]=matrix[i-1][j]+1;
+                }
             }
         }
         int max=0;
@@ -18,8 +20,8 @@ class Solution {
             for(int j=0;j<m;j++)
             {
                 int hval=row[m-1-j];
-                int width=j+1;
-                max=Math.max(hval*width,max);
+                int index=j+1;
+                max=Math.max(max,hval*index);
             }
         }
         return max;
