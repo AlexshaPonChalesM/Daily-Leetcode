@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -28,5 +29,18 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
