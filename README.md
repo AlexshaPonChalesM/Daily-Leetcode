@@ -53,4 +53,8 @@
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+## Math
+|  |
+| ------- |
+| [0492-construct-the-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0492-construct-the-rectangle) |
 <!---LeetCode Topics End-->
