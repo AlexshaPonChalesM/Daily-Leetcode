@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
@@ -13,6 +14,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -57,4 +59,8 @@
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0492-construct-the-rectangle) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
