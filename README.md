@@ -64,10 +64,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Sliding Window
 |  |
 | ------- |
