@@ -12,7 +12,11 @@ class Solution {
             for(int j=i;j<n;j++)
             {
                 hash.add(nums[j]);
-                if(s==hash.size())count++;
+                if(s==hash.size())
+                {
+                    count+=(n-j);
+                    break;
+                }
             }
         }
         return count;
