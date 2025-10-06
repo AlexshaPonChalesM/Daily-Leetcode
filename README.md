@@ -8,6 +8,7 @@
 | [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
+| [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
