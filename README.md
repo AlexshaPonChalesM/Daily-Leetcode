@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
@@ -67,6 +68,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0036-valid-sudoku) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
