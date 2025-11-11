@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0075-sort-colors) |
+| [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0042-trapping-rain-water](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0053-maximum-subarray) |
+| [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -77,6 +79,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 ## Sliding Window
 |  |
