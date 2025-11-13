@@ -58,6 +58,7 @@
 |  |
 | ------- |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sorting
 |  |
 | ------- |
@@ -81,9 +82,14 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
+## Counting
+|  |
+| ------- |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 <!---LeetCode Topics End-->
