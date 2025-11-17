@@ -12,6 +12,7 @@
 | [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
