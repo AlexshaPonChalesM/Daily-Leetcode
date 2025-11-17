@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0492-construct-the-rectangle](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0492-construct-the-rectangle) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 ## Hash Table
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Sliding Window
 |  |
