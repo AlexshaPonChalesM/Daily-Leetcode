@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0075-sort-colors) |
 | [0474-ones-and-zeroes](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0498-diagonal-traverse) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [1293-three-consecutive-odds](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1845-largest-submatrix-with-rearrangements](https://github.com/AlexshaPonChalesM/Daily-Leetcode/tree/master/1845-largest-submatrix-with-rearrangements) |
